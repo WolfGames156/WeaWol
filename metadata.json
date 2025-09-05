@@ -1,0 +1,8 @@
+{
+  "name": "WeaWol",
+  "description": "A beautifully designed weather application that provides current weather, hourly and daily forecasts, and detailed information like pollen count and air pressure, using the Open-Meteo API.",
+  "author": "WolfGames",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
